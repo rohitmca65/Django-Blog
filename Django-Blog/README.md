@@ -18,10 +18,7 @@ A simple Blog Application using Django
     <li><b>django-crispy-forms :</b> pip install django-crispy-forms</li>
     <li><b>Pillow :</b> pip install Pillow</li>
 </ul>
-  
-<h2>Note :</h2>
 
-<b>The Secret_Key required for the execution and debugging of project is not removed from the project code. So you can use the project as your college mini-project or by using the project code you can build your own project. Please don't use the project for commercial purpose without taking permission.</b>
 
 <h2>Usage :</h2>
 
